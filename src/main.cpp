@@ -29,7 +29,7 @@ bool init() {
         return false;
     }
 
-    window = SDL_CreateWindow("Proyecto 3: Raytracing", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, WIDTH, HEIGHT, SDL_WINDOW_SHOWN);
+    window = SDL_CreateWindow("Proyecto 3 - Raytracing", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, WIDTH, HEIGHT, SDL_WINDOW_SHOWN);
     if (!window) {
         std::cerr << "Error: No se pudo crear una ventana SDL: " << SDL_GetError() << std::endl;
         return false;

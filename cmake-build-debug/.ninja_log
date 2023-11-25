@@ -1,0 +1,13 @@
+# ninja log v5
+3	46	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/UVG_Graficas_Proyecto_3-main/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0d017915ecf3b4
+32	4064	7226532010653288	CMakeFiles/SR1.dir/src/camera.cpp.obj	1d6428aade4c52b2
+872	1120	7225681458257476	PROYECTO3.exe	c6f71ed8788c6020
+8	3250	7226532931975021	CMakeFiles/SR1.dir/src/main.cpp.obj	2e64dd1826d5180f
+3251	3525	7226532934694937	SR1.exe	7c9e5dade0ba3919
+6	50	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto 3/Proyecto3-Graficas/cmake-build-debug/CMakeFiles/cmake.verify_globs	a9ee223f741b65c7
+2	44	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto 3/Proyecto3-Graficas/cmake-build-debug/CMakeFiles/cmake.verify_globs	a9ee223f741b65c7
+8	3335	7226533676993328	CMakeFiles/SR1.dir/src/main.cpp.obj	2e64dd1826d5180f
+3336	3974	7226533683280130	SR1.exe	7c9e5dade0ba3919
+2	42	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto 3/Proyecto3-Graficas/cmake-build-debug/CMakeFiles/cmake.verify_globs	a9ee223f741b65c7
+8	2980	7226534691608109	CMakeFiles/SR1.dir/src/main.cpp.obj	2e64dd1826d5180f
+2981	3235	7226534694141271	SR1.exe	7c9e5dade0ba3919

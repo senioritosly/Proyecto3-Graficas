@@ -1,0 +1,3 @@
+C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto 3/Proyecto3-Graficas/cmake-build-debug/CMakeFiles/SR1.dir
+C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto 3/Proyecto3-Graficas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto 3/Proyecto3-Graficas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

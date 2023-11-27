@@ -1,5 +1,5 @@
-# Proyecto 3: Raycasting
-Diorama de Minecraft con raycasting implementado. 
+# Proyecto 3: Raytracing
+Diorama de Minecraft con raytracing implementado. 
 
 ## Objetivos
 - Crear una escena visualmente atractiva que haga uso de raycasting.
